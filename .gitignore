@@ -19,3 +19,5 @@ node_modules
 publish/src
 publish/package
 demo-vue/app/app.js
+demo-vue/.migration_backup
+demo-vue/platforms
